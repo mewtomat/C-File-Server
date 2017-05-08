@@ -1,0 +1,4 @@
+To make the req executables, 
+	make all
+The executable produced is "shell". Run it as
+	./shell
